@@ -150,7 +150,7 @@ class _AddScheduleViewState extends State<AddScheduleView> {
               time: "",
               color: Tcolo.LightGray,
               onPressed: () {}),
-          Spacer(),
+          const Spacer(),
           RoundBottom(title: "Save", onPressed: () {}),
           const SizedBox(
             height: 20,

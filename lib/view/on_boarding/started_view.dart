@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:fitness_app/common/colo_exetion.dart';
 import 'package:fitness_app/common_widget/round_bottom.dart';
 import 'package:fitness_app/view/on_boarding/on_boarding_view.dart';
